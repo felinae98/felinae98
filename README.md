@@ -1,5 +1,10 @@
-### Hi there 👋
+### This is felinae98
+- 🌱 I’m currently learning rust, golang
+- :wrench: Developing nonebot2 plugin
+- :beers: Member of BITNP
+- :pencil: User of Archlinux and Neovim
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felinae98)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **felinae98/felinae98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
